@@ -1,0 +1,17 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.examples.rap</groupId>
+    <artifactId>org.examples.rap.features</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>org.examples.rap</groupId>
+        <artifactId>org.examples.rap.root</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+    
+    <modules>
+        <module>org.examples.rap.helloworld2.feature</module>
+    </modules>
+</project>
